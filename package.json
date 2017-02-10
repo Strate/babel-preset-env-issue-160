@@ -1,0 +1,25 @@
+{
+  "name": "babel-preset-env-issue-160",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel src/index.js --out-file dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strate/babel-preset-env-issue-160.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strate/babel-preset-env-issue-160/issues"
+  },
+  "homepage": "https://github.com/Strate/babel-preset-env-issue-160#readme",
+  "dependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-preset-env": "^1.1.8"
+  }
+}
